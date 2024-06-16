@@ -7,7 +7,7 @@ const PORT = 8000
 
 
 let corsOptions = {
-    origin: 'http://localhost:3000',
+    origin: ['http://localhost:3000','https://666f351f0c30bb3e7f236961--meek-beijinho-2c5530.netlify.app'],
     optionsSuccessStatus: 200 
 }
 
